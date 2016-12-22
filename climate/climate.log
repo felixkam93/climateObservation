@@ -1,0 +1,37 @@
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+DEBUG:urllib3.connectionpool:"POST /api/climates HTTP/1.1" 200 138
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+DEBUG:urllib3.connectionpool:"POST /api/climates HTTP/1.1" 200 138
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+ERROR:root:An error occured during the rest post call:
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+ERROR:root:An error occured during the rest post call:
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+ERROR:root:An error occured during the rest post call:
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+ERROR:root:('Connection aborted.', error(111, 'Connection refused'))
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+ERROR:root:('Connection aborted.', error(111, 'Connection refused'))
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+DEBUG:urllib3.connectionpool:"POST /api/climates HTTP/1.1" 200 138
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+DEBUG:urllib3.connectionpool:"POST /api/climates HTTP/1.1" 200 138
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+DEBUG:urllib3.connectionpool:"POST /api/climates HTTP/1.1" 200 138
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+DEBUG:urllib3.connectionpool:"POST /api/climates HTTP/1.1" 200 138
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+DEBUG:urllib3.connectionpool:"POST /api/climates HTTP/1.1" 200 138
+INFO:urllib3.connectionpool:Starting new HTTP connection (1): 192.168.1.131
+DEBUG:urllib3.connectionpool:"POST /api/climates HTTP/1.1" 200 138
